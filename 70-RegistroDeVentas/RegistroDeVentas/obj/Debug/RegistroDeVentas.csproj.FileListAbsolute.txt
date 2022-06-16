@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\RegistroDeVentas\RegistroDeVentas\bin\Debug\RegistroDeVentas.exe
+C:\Users\tauro\Desktop\RegistroDeVentas\RegistroDeVentas\bin\Debug\RegistroDeVentas.pdb
+C:\Users\tauro\Desktop\RegistroDeVentas\RegistroDeVentas\obj\Debug\RegistroDeVentas.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\RegistroDeVentas\RegistroDeVentas\obj\Debug\RegistroDeVentas.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\RegistroDeVentas\RegistroDeVentas\obj\Debug\RegistroDeVentas.exe
+C:\Users\tauro\Desktop\RegistroDeVentas\RegistroDeVentas\obj\Debug\RegistroDeVentas.pdb
